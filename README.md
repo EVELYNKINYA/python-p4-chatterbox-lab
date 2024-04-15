@@ -45,7 +45,7 @@ NOTE: If you get an error message about "Error: digital envelope
 routines::unsupported", type the following in your terminal:
 `export NODE_OPTIONS=--openssl-legacy-provider`, then try starting the client
 again.
-
+ 
 Then visit [http://localhost:3000](http://localhost:3000) in the browser and
 interact with the demo application to get a sense of its features.
 
